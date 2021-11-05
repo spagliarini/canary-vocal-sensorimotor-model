@@ -1,3 +1,5 @@
+Link to the paper:
+
 # What to do first
 * Train the GAN using ld = latent space dimension (e.g., ld = 3)
 * Generate the motor space (here 16k generations): name it 'motor_ld' (e.g., 'motor_3')
