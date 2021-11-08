@@ -1,4 +1,4 @@
-Link to the paper:
+Link to the paper: https://ieeexplore.ieee.org/abstract/document/9515607
 
 # What to do first
 * Train the GAN using ld = latent space dimension (e.g., ld = 3)
