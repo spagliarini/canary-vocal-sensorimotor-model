@@ -6,7 +6,7 @@ Link to the paper: https://ieeexplore.ieee.org/abstract/document/9515607
 * Create annotations (analysis of the motor space): name it 'sensory_EXT_ld.pkl' (e.g., 'sensory_EXT_3.pkl')
 
 
-* [OPTIONAL]: * use `pre_def` to pre-define the initial weights. This is useful if one can't run for a long time the simulations.
+* [OPTIONAL]: use `pre_def` to pre-define the initial weights. This is useful if one can't run for a long time the simulations.
 
 ---
 # Training
