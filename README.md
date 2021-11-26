@@ -1,6 +1,6 @@
 Code relative to the following paper:
 
-Pagliarini, S., Leblois, A., & Hinaut, X. (2021, August). Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL) (pp. 1-8). IEEE. [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
+Pagliarini, S., Leblois, A., & Hinaut, X. (2021) Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL). [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
 
 # What to do first
 * Train the GAN using ld = latent space dimension (e.g., ld = 3)
@@ -142,4 +142,5 @@ This function saves in the input directory.
 `plot_sensory_test`: Plots of the results obtained from the learning model (VLMtest function in `InverseModelGAN`). This is not good for long simulations (it takes a lot of time), it's ok to run short experiments.
 
 
-
+## Cite
+Pagliarini, S., Leblois, A., & Hinaut, X. (2021) Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL). [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
