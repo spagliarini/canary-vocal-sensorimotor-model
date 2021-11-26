@@ -1,4 +1,5 @@
-Link to the paper: https://ieeexplore.ieee.org/abstract/document/9515607
+Code relative to the following paper:
+Pagliarini, S., Leblois, A., & Hinaut, X. (2021, August). Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL) (pp. 1-8). IEEE. [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
 
 # What to do first
 * Train the GAN using ld = latent space dimension (e.g., ld = 3)
