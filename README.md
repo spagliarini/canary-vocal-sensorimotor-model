@@ -1,6 +1,10 @@
-Code relative to the following paper:
+This repository is the code for the paper
 
 Pagliarini, S., Leblois, A., & Hinaut, X. (2021) Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL). [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
+
+ABSTRACT
+
+Songbirds, like humans, learn to imitate sounds produced by adult conspecifics. Similarly, a complete vocal learning model should be able to produce, perceive and imitate realistic sounds. We propose (1) to use a low-dimensional generator model obtained from training WaveGAN on a canary vocalizations, (2) to use a RNN-classifier to model sensory processing. In this scenario, can a simple Hebbian learning rule drive the learning of the inverse model linking the perceptual space and the motor space? First, we study how the motor latent space topology affects the learning process. We then investigate the influence of the learning rate and of the motor latent space dimension. We observe that a simple Hebbian rule is able to drive the learning of realistic sounds produced via a low-dimensional GAN.
 
 # What to do first
 * Train the GAN using ld = latent space dimension (e.g., ld = 3)
