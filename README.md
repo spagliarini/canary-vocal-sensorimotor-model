@@ -39,7 +39,7 @@ function takes as input one vector (saved as pkl) and generates one syllable.
 Partially taken from train_wavegan.py in https://github.com/spagliarini/low-dimensional-canary-GAN (original WaveGAN is from https://github.com/chrisdonahue/wavegan).
 
 ### Sensory response function
-`sensory_response' is classifier-EXT (create annotations).
+`sensory_response' is the implementation of the syllable classifier.
 
 The input directory contains one or more audio files (.wav) of duration 1s.
 
