@@ -147,4 +147,4 @@ This function saves in the input directory.
 
 
 ## Cite
-Pagliarini, S., Leblois, A., & Hinaut, X. (2021) Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL). [HTML](https://ieeexplore.ieee.org/abstract/document/9515607)
+Pagliarini, S., Leblois, A., & Hinaut, X. (2021) Canary Vocal Sensorimotor Model with RNN Decoder and Low-dimensional GAN Generator. In 2021 IEEE International Conference on Development and Learning (ICDL).
